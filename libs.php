@@ -7,5 +7,4 @@ function sessionGet($k){
 	}
 }
 function sessionSet($k, $v){
-	$_SESSION[$k] = $v;
-}
+	$_SESSION[$k] = $v
